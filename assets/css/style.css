@@ -115,6 +115,9 @@ border-radius: 5px;
 }
 /**end-nav*/
 /*slider*/
+.carousel-index{
+  padding-top: 90px;
+}
 @media (min-width:1101px){
   .carousel-index{
     height: 100vh;
@@ -173,10 +176,10 @@ margin-right: 10px;
 }
 
 .carousel-index .carousel-control-prev-icon {
-  background-image: url(../img/Icon\ feather-chevron-right.png);
+  background-image: url(../img/Icon\ awesome-angle-left.svg);
 }
 .carousel-index  .carousel-control-next-icon {
-  background-image: url(../img/Icon\ feather-chevron.png);
+  background-image: url(../img/Icon\ awesome-angle-right.svg);
 }
 .title-hade{
   color: #5C534C;
