@@ -1,0 +1,23 @@
+[dir="rtl"] .contact-content {
+    text-align: left;
+}
+[dir="ltr"] .contact-content {
+    text-align: right;
+}
+[dir="rtl"] .content-fees-study{
+    margin-right: 5%;
+  }
+  [dir="ltr"] .content-fees-study{
+    margin-left: 5%;
+  }
+  @media (max-width:990px) {
+    [dir="rtl"] .content-fees-study{
+      margin-right: 5%;
+      margin-left: 5%;
+    }
+    [dir="ltr"] .content-fees-study{
+      margin-left: 5%;
+      margin-right: 5%;
+
+    }
+  }
