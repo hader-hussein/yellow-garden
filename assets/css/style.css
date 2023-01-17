@@ -276,7 +276,7 @@ margin-right: 10px;
 /*Various activities for children*/
 .carousel-childern .carousel-item img{
 width: 50%;
-height: 500px;
+height: 617px;
 margin: auto;
 }
 .carousel-childern .carousel-indicators {
@@ -693,7 +693,7 @@ left:-11%
 }
 .img-content-us{
   width: 100%;
-  height: 392px;
+  height: auto;
 }
 .title-content{
   color: #5C534C;
